@@ -1,8 +1,8 @@
 {
     "Toolbox": "0.0.3",
-    "Manager": "0.0.9",
+    "Manager": "0.1.0",
     "Explosion": "0.0.2",
-    "Library": "0.1.0",
-    "Glitch": "2.1.2",
+    "Library": "0.1.2",
+    "Glitch": "2.1.6",
     "GlitchAdvanced": "0.0.5"
 }
